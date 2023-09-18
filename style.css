@@ -11,6 +11,17 @@ body {
 }
 
 #Tessin {background-color: red;}
+
 a:hover {
 font-size: 1.4rem;
+}
+.img-karte {
+  text-align: center;
+}
+
+.img-center > img {
+  width: 30%;
+}
+.img-fluss {
+  text-align: center;
 }
