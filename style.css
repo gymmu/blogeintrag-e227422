@@ -10,7 +10,12 @@ body {
   font-family: sans-serif;
 }
 
-#Tessin {background-color: red;}
+#Tessin {background-color: red;
+        width: ;
+        height: 50px;
+        padding: 10px;
+        margin-left: 2px;
+        text-align: center;}
 
 a:hover {
 font-size: 1.4rem;
